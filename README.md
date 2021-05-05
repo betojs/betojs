@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-#### Soy Alberto programador Backend en Node.Js
+#### Soy Alberto, programador Backend en Node.Js
 Bienvenido a mi Github
 <!--
 **betojs/betojs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
